@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '36581'
     url: http://www.gutenberg.org/2009/agents/36581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34010#The-History-and-Antiquities-of-the-Doric-Race-Vol.-2-of-2
 gutenberg_issued: '2010-09-28'
 gutenberg_type: Text
 identifiers:
