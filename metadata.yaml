@@ -1,0 +1,44 @@
+_repo: The-History-and-Antiquities-of-the-Doric-Race-Vol.-2-of-2_34010
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Tufnell, Henry
+    birthdate: 1805
+    deathdate: 1854
+    gutenberg_agent_id: '36568'
+    url: http://www.gutenberg.org/2009/agents/36568
+  - agent_name: Lewis, George Cornewall, Sir
+    alias: Lewis, G. Cornewall (George Cornewall), Sir
+    birthdate: 1806
+    deathdate: 1863
+    gutenberg_agent_id: '39334'
+    url: http://www.gutenberg.org/2009/agents/39334
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, Karl Otfried
+    aliases:
+    - Müller, K. O. (Karl Otfried)
+    - Muller, Karl Otfried
+    birthdate: 1797
+    deathdate: 1840
+    gutenberg_agent_id: '36581'
+    url: http://www.gutenberg.org/2009/agents/36581
+description: ''
+gutenberg_issued: '2010-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Dorian Invasions, approximately 1125-1025 B.C.'
+- !lcc 'DF'
+- !lcsh 'Greece -- Antiquities, Dorian'
+- !lcsh 'Dorians -- History'
+title: The History and Antiquities of the Doric Race, Vol. 2 of 2
+url: http://www.gutenberg.org/ebooks/34010
